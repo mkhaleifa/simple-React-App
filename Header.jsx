@@ -1,7 +1,7 @@
 export default function Header(){
     return (
     <header>
-        <img src="/components/fish.jpg" alt="my photo" className="img-photo"/>
+        <img src="/me.jpeg" alt="my photo" className="img-photo"/>
         <h1>Mohamed Khalifa</h1>
         <p className='my-job'>Frontend Developer</p>
         <p className='text-website'>Mohamed.website</p>
