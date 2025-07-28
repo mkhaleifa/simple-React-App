@@ -1,6 +1,6 @@
-import Main from "./components/Main"
-import Header from "./components/Header.jsx"
-import Footer from "./components/Footer.jsx"
+import Main from "./Main"
+import Header from "./Header.jsx"
+import Footer from "./Footer.jsx"
 
 
 export default function App() {
